@@ -1,0 +1,4 @@
+Roses are red
+Violets are blue
+Python writes files
+And so can you
