@@ -1,3 +1,0 @@
-Why do programmers prefer dark mode? Because light attracts bugs.
-How many Gophers does it take to change a lightbulb? Just one, but it's a concurrent lightbulb.
-Why was the function so happy? Because it had no arguments.
